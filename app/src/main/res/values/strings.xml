@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">As-All-Things-Should-Be</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>
